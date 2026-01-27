@@ -66,10 +66,9 @@ The autoregressive model significantly outperformed baseline approaches.
 ```
 Cinema-Audience-Forecasting-TimeSeries/
 │
-├── Cinema_Audience_Forecasting_XGBoost_AR.ipynb
+├── Cinema_Audience_Forecasting_Timeseries.ipynb
 ├── requirements.txt
-├── README.md
-└── submission.csv (optional)
+└── README.md
 ```
 
 ---
@@ -107,7 +106,7 @@ pip install -r requirements.txt
 
 ### Launch notebook
 ```
-jupyter notebook Cinema_Audience_Forecasting_XGBoost_AR.ipynb
+jupyter notebook Cinema_Audience_Forecasting_Timeseries.ipynb
 ```
 
 ---
